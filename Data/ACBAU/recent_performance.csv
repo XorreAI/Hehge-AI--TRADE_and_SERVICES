@@ -1,4 +1,5 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-07-10,10.9,10.9,10.9,10.9,100,0.0,0.0,0.0,0.0,0.0,10.76,10.83,0.02,0.03,-0.01,367536,11.32,61.67,11.67,1.0,50.0,Weak Buy Signal,11.16,10.76,10.37,0.07,51.79,Target Volume,Expected Range,24.16,Absent or Weak Trend
 2023-07-07,10.9,10.9,10.9,10.9,100,0.0,0.0,0.0,0.0,0.0,10.76,10.82,0.02,0.03,-0.01,367536,11.32,63.33,13.33,1.0,50.0,Weak Buy Signal,11.16,10.76,10.37,0.07,51.79,Target Volume,Expected Range,24.38,Absent or Weak Trend
 2023-07-06,10.9,10.9,10.9,10.9,100,0.0,0.0,0.0,0.0,0.0,10.76,10.82,0.02,0.03,-0.01,367536,11.32,65.0,15.0,1.0,50.0,Weak Buy Signal,11.16,10.76,10.37,0.07,51.79,Target Volume,Expected Range,24.6,Absent or Weak Trend
 2023-07-05,10.9,10.9,10.9,10.9,100,0.0,0.0,0.0,0.0,0.0,10.76,10.82,0.02,0.03,-0.01,367536,11.32,66.67,16.67,1.0,50.0,Weak Buy Signal,11.16,10.76,10.37,0.07,51.79,Target Volume,Expected Range,24.82,Absent or Weak Trend
@@ -98,4 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-02-16,10.82,10.83,10.82,10.82,900,0.0,0.01,0.0,0.09,0.0,10.64,10.68,0.04,0.05,-0.01,363777,70.11,46.67,45.0,1.0,1.67,High Volatility / Hold Signal,10.92,10.64,10.37,0.05,61.26,Trending Low,Bearish Trend,36.64,Strong Trend
 2023-02-15,10.83,10.83,10.83,10.83,100,0.0,0.0,0.0,0.0,0.0,10.64,10.67,0.04,0.05,-0.01,364677,70.72,48.33,46.67,1.0,1.67,High Volatility / Hold Signal,10.91,10.64,10.37,0.05,61.88,Trending Low,Bearish Trend,36.08,Strong Trend
 2023-02-14,10.81,10.81,10.81,10.81,100,0.0,0.0,0.0,0.0,0.0,10.63,10.67,0.04,0.05,-0.01,364577,70.51,50.0,48.33,1.0,1.67,High Volatility / Hold Signal,10.91,10.63,10.36,0.05,61.11,Trending Low,Bearish Trend,35.49,Strong Trend
-2023-02-13,10.81,10.81,10.81,10.81,0,0.0,0.0,0.0,0.0,0.0,10.63,10.66,0.04,0.05,-0.01,364577,70.51,51.67,50.0,1.0,1.67,High Volatility / Hold Signal,10.9,10.63,10.36,0.05,61.11,Trending Low,Bearish Trend,34.9,Strong Trend
