@@ -1,4 +1,5 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-08-04,10.91,10.91,10.91,10.91,750,0.0,0.0,0.0,0.0,0.0,10.79,10.79,0.03,0.03,0.0,3957386,62.16,93.33,0.0,1.0,93.33,Strong Buy Signal,10.92,10.79,10.66,0.02,75.84,Overbought,Overvalued,54.25,Very Strong Trend
 2023-08-03,10.92,10.92,10.91,10.91,46961,-0.01,0.01,-0.09,0.09,0.0,10.79,10.79,0.03,0.03,0.0,3957386,62.16,95.0,0.0,1.0,95.0,Strong Buy Signal,10.91,10.79,10.66,0.02,75.84,Overbought,Overvalued,54.12,Very Strong Trend
 2023-08-02,10.9,10.92,10.9,10.92,550812,0.02,0.02,0.18,0.18,0.01,10.78,10.78,0.03,0.03,-0.0,4004347,62.16,96.67,1.67,1.0,95.0,Strong Buy Signal,10.91,10.78,10.65,0.02,77.62,Overbought,Overvalued,53.98,Very Strong Trend
 2023-08-01,10.87,10.87,10.87,10.87,5076,0.0,0.0,0.0,0.0,0.0,10.78,10.78,0.02,0.03,-0.0,3453535,58.48,98.33,3.33,1.0,95.0,Strong Buy Signal,10.9,10.78,10.65,0.02,74.71,Overbought,Overvalued,53.84,Very Strong Trend
@@ -98,4 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-03-16,10.57,10.57,10.57,10.57,0,0.0,0.0,0.0,0.0,0.0,10.47,10.47,0.02,0.03,-0.0,3275090,65.92,28.33,16.67,1.0,11.67,High Volatility / Hold Signal,10.6,10.47,10.33,0.03,70.36,Overbought,Overvalued,47.63,Strong Trend
 2023-03-15,10.57,10.57,10.57,10.57,2,0.0,0.0,0.0,0.0,0.0,10.46,10.47,0.03,0.03,-0.0,3275090,65.92,30.0,18.33,1.0,11.67,High Volatility / Hold Signal,10.6,10.46,10.33,0.03,70.36,Overbought,Overvalued,47.32,Strong Trend
 2023-03-14,10.57,10.57,10.57,10.57,43328,0.0,0.0,0.0,0.0,0.0,10.46,10.46,0.03,0.03,-0.0,3275090,65.92,31.67,20.0,1.0,11.67,High Volatility / Hold Signal,10.6,10.46,10.33,0.03,70.36,Overbought,Overvalued,47.0,Strong Trend
-2023-03-13,10.57,10.57,10.57,10.57,100,0.0,0.0,0.0,0.0,0.0,10.46,10.46,0.03,0.03,-0.0,3275090,65.92,33.33,21.67,1.0,11.67,High Volatility / Hold Signal,10.59,10.46,10.32,0.03,70.36,Overbought,Overvalued,46.68,Strong Trend
