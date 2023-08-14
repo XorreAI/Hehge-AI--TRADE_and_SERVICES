@@ -1,5 +1,6 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
-2023-08-10,10.69,10.78,10.69,10.78,6,0.09,0.09,0.83,0.83,0.04,10.6,10.6,0.03,0.02,0.0,903025,90.78,33.33,6.67,1.0,26.67,Weak Buy Signal,10.71,10.6,10.49,0.02,68.25,Trending Low,Bearish Trend,88.6,Extremely Strong Trend
+2023-08-11,10.7,10.7,10.7,10.7,90389,0.0,0.0,0.0,0.0,0.0,10.6,10.6,0.02,0.02,-0.0,993408,90.99,31.67,5.0,1.0,26.67,Weak Buy Signal,10.7,10.6,10.5,0.02,64.53,Trending Low,Bearish Trend,88.64,Extremely Strong Trend
+2023-08-10,10.65,10.65,10.65,10.65,6,0.0,0.0,0.0,0.0,0.0,10.6,10.59,0.02,0.02,-0.0,903019,90.78,33.33,6.67,1.0,26.67,Weak Buy Signal,10.7,10.6,10.5,0.02,61.65,Trending Low,Bearish Trend,88.6,Extremely Strong Trend
 2023-08-09,10.72,10.78,10.65,10.65,5205,-0.06,0.13,-0.61,1.22,0.06,10.59,10.59,0.02,0.02,-0.0,903019,90.78,35.0,8.33,1.0,26.67,Weak Buy Signal,10.7,10.59,10.49,0.02,61.65,Trending Low,Bearish Trend,88.57,Extremely Strong Trend
 2023-08-08,10.65,10.72,10.65,10.65,3519,0.0,0.07,0.0,0.66,0.04,10.59,10.59,0.02,0.02,-0.0,903019,90.52,36.67,0.0,1.0,36.67,Weak Buy Signal,10.69,10.59,10.49,0.02,61.65,Trending Low,Bearish Trend,88.53,Extremely Strong Trend
 2023-08-07,10.65,10.68,10.65,10.65,1425,0.0,0.03,0.0,0.26,0.01,10.59,10.59,0.02,0.02,-0.0,903019,90.33,38.33,1.67,1.0,36.67,Weak Buy Signal,10.69,10.59,10.49,0.02,61.65,Trending Low,Bearish Trend,88.5,Extremely Strong Trend
@@ -98,4 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-03-23,10.4,10.4,10.39,10.4,2530,0.01,0.01,0.05,0.1,0.0,10.33,10.32,0.02,0.02,-0.0,526150,86.99,43.33,3.33,1.0,40.0,Weak Buy Signal,10.45,10.33,10.2,0.02,65.67,Trending Low,Bearish Trend,83.87,Extremely Strong Trend
 2023-03-22,10.39,10.39,10.39,10.39,100,0.0,0.0,0.0,0.0,0.0,10.32,10.32,0.02,0.02,-0.01,523620,86.92,45.0,0.0,1.0,45.0,Weak Buy Signal,10.45,10.32,10.2,0.02,65.1,Trending Low,Bearish Trend,,
 2023-03-21,10.39,10.39,10.39,10.39,100,0.0,0.0,0.0,0.0,0.0,10.32,10.32,0.02,0.02,-0.0,523620,86.92,46.67,1.67,1.0,45.0,Weak Buy Signal,10.45,10.32,10.19,0.03,65.1,Trending Low,Bearish Trend,,
-2023-03-20,10.39,10.39,10.39,10.39,1859,0.0,0.0,0.0,0.0,0.0,10.32,10.31,0.02,0.02,-0.0,523720,86.92,48.33,3.33,1.0,45.0,Weak Buy Signal,10.45,10.32,10.18,0.03,65.11,Trending Low,Bearish Trend,,
