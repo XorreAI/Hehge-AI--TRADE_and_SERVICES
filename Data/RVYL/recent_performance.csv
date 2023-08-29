@@ -1,4 +1,5 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-08-28,0.9,0.94,0.9,0.92,82845,0.02,0.04,2.3,4.66,0.02,1.03,1.02,-0.09,-0.05,-0.03,-6792737,8.49,66.67,18.33,1.0,48.33,Weak Buy Signal,1.64,1.03,0.42,1.19,50.26,Target Volume,Expected Range,19.47,Absent or Weak Trend
 2023-08-25,0.9,0.92,0.86,0.92,82185,0.02,0.06,2.49,6.58,0.03,1.02,1.02,-0.09,-0.04,-0.04,-6709892,8.07,68.33,20.0,1.0,48.33,Weak Buy Signal,1.64,1.02,0.41,1.2,50.27,Target Volume,Expected Range,19.66,Absent or Weak Trend
 2023-08-24,0.93,0.94,0.83,0.87,357125,-0.06,0.11,-7.07,12.35,0.05,1.02,1.02,-0.08,-0.03,-0.05,-6792077,8.07,70.0,21.67,1.0,48.33,Weak Buy Signal,1.64,1.02,0.4,1.22,49.53,Target Volume,Expected Range,19.86,Absent or Weak Trend
 2023-08-23,0.91,0.94,0.9,0.91,100132,-0.0,0.04,-0.27,3.85,0.02,1.01,1.03,-0.08,-0.02,-0.06,-6434952,10.39,71.67,0.0,1.0,71.67,Strong Buy Signal,1.64,1.01,0.39,1.23,50.1,Target Volume,Expected Range,20.06,Absent or Weak Trend
@@ -98,4 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-04-10,0.38,0.57,0.38,0.57,712399,0.19,0.19,32.98,32.98,0.09,0.5,0.48,-0.01,-0.03,0.02,-7078611,4.22,6.67,71.67,-1.0,-65.0,Weak Sell Signal,0.76,0.5,0.24,1.05,47.98,Target Volume,Expected Range,,
 2023-04-06,0.34,0.39,0.34,0.39,33279,0.05,0.05,12.82,12.82,0.02,0.5,0.48,-0.02,-0.03,0.01,-7791010,17.43,8.33,73.33,-1.0,-65.0,Weak Sell Signal,0.76,0.5,0.24,1.05,42.23,Target Volume,Expected Range,,
 2023-04-05,0.38,0.4,0.34,0.36,58271,-0.02,0.06,-4.45,17.48,0.03,0.5,0.48,-0.03,-0.04,0.01,-7824289,17.36,10.0,75.0,-1.0,-65.0,Weak Sell Signal,0.77,0.5,0.24,1.05,41.28,Target Volume,Expected Range,,
-2023-04-04,0.39,0.42,0.36,0.36,47806,-0.03,0.06,-8.33,15.58,0.03,0.51,0.48,-0.03,-0.04,0.01,-7882560,16.26,11.67,76.67,-1.0,-65.0,Weak Sell Signal,0.77,0.51,0.24,1.04,41.14,Target Volume,Expected Range,,
